@@ -3,8 +3,6 @@ owner: viliaciputra
 repo: uptime
 
 sites:
-  - name: Google
-    url: https://google.com
   - name: Its Vilici
     url: https://www.itsvilici.com
   - name: Vilia Ciputra
