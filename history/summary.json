@@ -1,5 +1,23 @@
 [
   {
+    "name": "Google",
+    "url": "https://google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/google.com.ico",
+    "slug": "google",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 3704,
+    "timeDay": 3704,
+    "timeWeek": 3704,
+    "timeMonth": 3704,
+    "timeYear": 3704,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Its Vilici",
     "url": "https://www.itsvilici.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.itsvilici.com.ico",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1166,
-    "timeDay": 1166,
-    "timeWeek": 1166,
-    "timeMonth": 1166,
-    "timeYear": 1166,
+    "time": 1118,
+    "timeDay": 1118,
+    "timeWeek": 1118,
+    "timeMonth": 1118,
+    "timeYear": 1118,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1224,
-    "timeDay": 1224,
-    "timeWeek": 1224,
-    "timeMonth": 1224,
-    "timeYear": 1224,
+    "time": 982,
+    "timeDay": 982,
+    "timeWeek": 982,
+    "timeMonth": 982,
+    "timeYear": 982,
     "dailyMinutesDown": {}
   }
 ]
