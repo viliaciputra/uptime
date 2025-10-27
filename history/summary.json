@@ -4,19 +4,19 @@
     "url": "https://www.itsvilici.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.itsvilici.com.ico",
     "slug": "its-vilici",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 972,
-    "timeDay": 790,
-    "timeWeek": 972,
-    "timeMonth": 972,
-    "timeYear": 972,
+    "status": "up",
+    "uptime": "99.00%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.00%",
+    "uptimeYear": "99.00%",
+    "time": 991,
+    "timeDay": 889,
+    "timeWeek": 991,
+    "timeMonth": 991,
+    "timeYear": 991,
     "dailyMinutesDown": {
-      "2025-10-27": 0
+      "2025-10-27": 19
     }
   },
   {
