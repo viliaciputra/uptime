@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.itsvilici.com.ico",
     "slug": "its-vilici",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 960,
-    "timeDay": 1047,
-    "timeWeek": 960,
-    "timeMonth": 960,
-    "timeYear": 960,
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 944,
+    "timeDay": 745,
+    "timeWeek": 912,
+    "timeMonth": 944,
+    "timeYear": 944,
     "dailyMinutesDown": {
       "2025-10-27": 19
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 726,
-    "timeDay": 678,
-    "timeWeek": 726,
-    "timeMonth": 726,
-    "timeYear": 726,
+    "time": 716,
+    "timeDay": 601,
+    "timeWeek": 657,
+    "timeMonth": 716,
+    "timeYear": 716,
     "dailyMinutesDown": {}
   }
 ]
