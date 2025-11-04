@@ -24,19 +24,19 @@
     "url": "https://viliaciputra.com",
     "icon": "https://icons.duckduckgo.com/ip3/viliaciputra.com.ico",
     "slug": "vilia-ciputra",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 707,
-    "timeDay": 607,
-    "timeWeek": 649,
-    "timeMonth": 707,
-    "timeYear": 707,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "97.50%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 693,
+    "timeDay": 556,
+    "timeWeek": 631,
+    "timeMonth": 693,
+    "timeYear": 693,
     "dailyMinutesDown": {
-      "2025-11-04": 0
+      "2025-11-04": 36
     }
   }
 ]
