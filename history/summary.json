@@ -24,7 +24,7 @@
     "url": "https://viliaciputra.com",
     "icon": "https://icons.duckduckgo.com/ip3/viliaciputra.com.ico",
     "slug": "vilia-ciputra",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,6 +35,8 @@
     "timeWeek": 649,
     "timeMonth": 707,
     "timeYear": 707,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-04": 0
+    }
   }
 ]
