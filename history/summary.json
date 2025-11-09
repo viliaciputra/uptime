@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 975,
-    "timeDay": 1356,
-    "timeWeek": 1010,
-    "timeMonth": 975,
-    "timeYear": 975,
+    "time": 968,
+    "timeDay": 845,
+    "timeWeek": 981,
+    "timeMonth": 968,
+    "timeYear": 968,
     "dailyMinutesDown": {
       "2025-10-27": 19
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/viliaciputra.com.ico",
     "slug": "vilia-ciputra",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 732,
-    "timeDay": 582,
-    "timeWeek": 733,
-    "timeMonth": 732,
-    "timeYear": 732,
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 726,
+    "timeDay": 605,
+    "timeWeek": 725,
+    "timeMonth": 726,
+    "timeYear": 726,
     "dailyMinutesDown": {
       "2025-11-04": 36
     }
