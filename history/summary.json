@@ -26,7 +26,7 @@
     "slug": "vilia-ciputra",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "97.75%",
+    "uptimeDay": "97.74%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.76%",
@@ -36,6 +36,7 @@
     "timeMonth": 712,
     "timeYear": 712,
     "dailyMinutesDown": {
+      "2025-11-15": 0,
       "2025-11-14": 32,
       "2025-11-04": 36
     }
